@@ -2,7 +2,7 @@
 ## Final Project from DSC 365: Data Visualization
 This repository covers individual contributions to my group final project in DSC 365: Data Visualization (as well as the full report). Both RStudio and Tableau were used in these individual contributions. Original dataset sources are linked within the repository. Multiple datasets were referenced from the CTA Open-Data Library, and the dataset used for the Weather analysis is sourced from Meteoblue. An extended personal reflection can be found in the group report.
 
-##DATASET SOURCES:
+### DATASET SOURCES:
 - CTA Open-Data: https://www.transitchicago.com/data/
 - Meteoblue Chicago Weather Archive: https://www.meteoblue.com/en/weather/historyclimate/weatherarchive/chicago_united-states_4887398
 
@@ -13,6 +13,6 @@ Project Contributions included but were not limited to:
 - Creating more detailed exploratory plots (2D density plot, sample temperature ranges and ridership ranges).
 - Revising, reformatting, and editing over the final report for my own sections and others (experience gained regarding writing in more academic tones).
 
-##Tableau Dashboard created as a final visualization for submission.
+### Tableau Dashboard created as a final visualization for submission.
 ![image](https://github.com/SachitPatel2003/DSC365FinalProject/assets/143663079/735c78a8-5f1c-42cf-9118-d45d96062b86)
 
